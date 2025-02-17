@@ -24,6 +24,14 @@ private:
 	sf::RenderWindow* window;
 	Input* input;
 
-	// Add your object here
+	sf::CircleShape circClick;
 
+	// Add your object here
+	sf::Font font;
+	sf::Text mPos;
+
+	float distance;
+	sf::Vector2f initMousePos;
+	sf::Vector2f finalMousePos;
+	bool dragYes = false;
 };
