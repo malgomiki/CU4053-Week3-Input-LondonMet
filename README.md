@@ -1,2 +1,2 @@
-# CU4012-Week-12-Input-LondonMet
-Week 12 Lab for CU4012 Games Programming (London Metropolitan University) 
+# CU4053-Week-3-Input-LondonMet
+Week 3 Lab for CU4053 Games Programming (London Metropolitan University) 
